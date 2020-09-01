@@ -26,7 +26,7 @@ public class CollectionsSample {
 	}
 
 	public void collectionReverse() {
-		List<String> list = Arrays.asList("one two three four five six siven".split(" "));
+		List<String> list = Arrays.asList("one two three four five six seven".split(" "));
 		System.out.println(list);
 		Collections.reverse(list);
 		System.out.println(list);
@@ -53,7 +53,7 @@ public class CollectionsSample {
 	}
 
 	public void collectionCopy() {
-		List<String> m = Arrays.asList("one two three four five six siven".split(" "));
+		List<String> m = Arrays.asList("one two three four five six seven".split(" "));
 		System.out.println(m);
 		List<String> n = Arrays.asList("Copyed".split(" "));
 		System.out.println(n);
