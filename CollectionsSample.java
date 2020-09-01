@@ -1,4 +1,4 @@
-package cn.trashcode.sample;
+package io.trashcode.sample;
 
 import java.util.ArrayList;
 import java.util.Arrays;
