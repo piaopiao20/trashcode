@@ -1,4 +1,4 @@
-# trashcode
-check code comments and output
-https://trashcode.io/
-https://trashcode.io/post/d/Java-Collections-Samples
+# TrashCode
+TrashCode.io provide function code out of box,tech solutions
+Check for more code samples
+# https://trashcode.io/
