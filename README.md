@@ -1,5 +1,8 @@
 # TrashCode.io <br>
 TrashCode.io provide function code out of box,tech solutions like ELK setup, SQL injections samples and defense ,etc<br>
+### upload FileOperator.java that can move file from source folder to target folder <br>
+comments in <br>
+https://trashcode.io/post/d/How-to-move-file-to-new-folder-in-Java
 ### Java Collections sample <br>
 https://trashcode.io/post/d/Java-Collections-Samples <br>
 ### SQL injection examples and defense <br>
